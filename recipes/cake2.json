@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "test_8b921d60"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AAA",
+      "BBB"
+    ],
+    "key": {
+      "A": {
+        "item": "pa:test",
+        "data": 0
+      },
+      "B": {
+        "item": "minecraft:wheat",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "pa:test",
+      "count": 1
+    }
+  }
+}
