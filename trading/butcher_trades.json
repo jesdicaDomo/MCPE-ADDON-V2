@@ -33,6 +33,22 @@
               "item": "minecraft:emerald"
             }
           ]
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:diamond",
+              "quantity": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "gives": [
+            {
+              "item": "pa:test"
+            }
+          ]
         }
       ]
     },

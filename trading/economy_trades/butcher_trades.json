@@ -16,7 +16,7 @@
               ],
               "gives": [
                 {
-                  "item": "minecraft:emerald",
+                  "item": "pa:test",
                   "quantity": 1
                 }
               ],
@@ -34,7 +34,7 @@
               ],
               "gives": [
                 {
-                  "item": "minecraft:emerald",
+                  "item": "pa:test",
                   "quantity": 1
                 }
               ],
@@ -52,7 +52,7 @@
               ],
               "gives": [
                 {
-                  "item": "minecraft:emerald",
+                  "item": "pa:test",
                   "quantity": 1
                 }
               ],
